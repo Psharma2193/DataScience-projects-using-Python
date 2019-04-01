@@ -1,7 +1,7 @@
 # DataScience-projects-using-Python
 Data Science projects repository using Python and ML techniques
 
-The repository include the projects I've been part of throughout my academic career as a Graduate student with specializing in Data Analytics track.
+The repository include the projects I've been part of throughout my academic career as a Graduate student specializing in Data Analytics track.
 
 **Project 1 (Beginner) - Gym Usage Analysis**
 This project was not part of curricullum requirements, but I did this to start off data analysis in python using a dataset. 
